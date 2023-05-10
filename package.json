@@ -1,11 +1,11 @@
 {
-  "name": "project-fc030522",
+  "name": "GoitStudentsWorks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-fc030522/",
+    "build": "vite build --base=/html_css_86_kondyan2022",
     "preview": "vite preview"
   },
   "devDependencies": {
